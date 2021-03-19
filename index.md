@@ -1,4 +1,4 @@
-![photo](https://github.com/ethankershner/ethankershner.github.io/blob/master/profile.png?raw=true)
+![photo](https://github.com/ethankershner/ethankershner.github.io/blob/master/profile.PNG?raw=true)
 
 ## About Me
 
