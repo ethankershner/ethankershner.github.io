@@ -1,3 +1,3 @@
-# Ethan Kershner
+# About Me
 
 Welcome to my portfolio!
