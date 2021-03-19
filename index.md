@@ -1,3 +1,3 @@
-# ethankershner.github.io
+# Ethan Kershner
 
 Welcome to my portfolio!
