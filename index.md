@@ -2,7 +2,9 @@
 
 ## About Me
 
-I am a Data Analyst and Scientist currently living in Doylestown, Pennsylvania. I gained my initial data analysis skills through the study of Behavioral Neuroscience at Allegheny College, where I graduated with a B.S. in 2020. Since then I have applied data science techniques to generate key insights and solve problems in business settings. Through the joint use of statistical analysis and data analysis packages I have succesfully informed and optimized business decision-making processes. In order to improve my skills and solve interesting problems, I have completed numerous personal projects which are presented here. Among my values as a data analyst are: clear and accessible visualization and data comprehension, rigorous validation of statistical assumptions used, and the judicious application of regression and classifcation algorithms. 
+I am a Data Analyst and Scientist currently living in Doylestown, Pennsylvania. I gained my initial data analysis skills through the study of Behavioral Neuroscience. Since then I have applied data science techniques to generate key insights and solve problems in business settings. Through the joint use of statistical analysis and data analysis packages I have succesfully informed and optimized business decision-making processes. In order to improve my skills and solve interesting problems, I have completed numerous personal projects which are presented here. Among my values as a data analyst are: clear and accessible visualization and data comprehension, rigorous validation of statistical assumptions used, and the judicious application of regression and classifcation algorithms. 
+
+I graduated from Allegheny College in 2020 with a B.S. in Neuroscience.
 
 Contact: [kershner.ethan@gmail.com](kershner.ethan@gmail.com)
 
