@@ -8,6 +8,8 @@ Contact: [kershner.ethan@gmail.com](kershner.ethan@gmail.com)
 
 ## Data Visualization and Comprehension
 
+Note: Visualization projects are designed to be viewed on desktop only.
+
 [Worldwide Contribution to Netflix](https://public.tableau.com/profile/ethan.kershner#!/vizhome/WorldwideContributiontoNetlfix/Dashboard1)
 
 [Pennsylvania Book Company Business Dashboard](https://public.tableau.com/profile/ethan.kershner#!/vizhome/PennsylvaniaBookCompanySalesDashboard/Dashboard1)
