@@ -20,3 +20,7 @@ I am a Data Analyst and Scientist currently living in Doylestown, PA. I have dev
 
 [Ebay Mac Price Regression Analysis](https://github.com/ethankershner/mac-price-regression/blob/main/analysis.ipynb)
 
+# Scientific Data Analysis
+
+[Effects of Prophylactic Ketamine on Immunostressor-Induced Depression-Like Behaviors in Rodents](https://drive.google.com/file/d/1D-od03iSMZZr7dJiUS0c78EfDdS7ioy5/view?usp=sharing)
+
