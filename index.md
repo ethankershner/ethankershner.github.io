@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Data Analyst and Scientist currently living in Doylestown, Pennsylvania. I gained my initial data analysis skills through the study of Behavioral Neuroscience. Since then I have applied data science techniques to generate key insights and solve problems in business settings. Through the joint use of statistical analysis and data analysis packages I have successfully informed and optimized business decision-making processes. Among my values as a data analyst are: clear and accessible visualization and data comprehension, rigorous validation of statistical assumptions used, and judicious application of regression and classification algorithms. 
+I am a Data Scientist and Analyst currently living in Doylestown, Pennsylvania. I gained my initial data analysis skills through the study of Behavioral Neuroscience. Since then I have applied data science techniques to generate key insights and solve problems in business settings. Through the joint use of statistical analysis and data analysis packages I have successfully informed and optimized business decision-making processes. Among my values as a data analyst are: clear and accessible visualization and data comprehension, rigorous validation of statistical assumptions used, and judicious application of regression and classification algorithms. 
 
 I graduated from Allegheny College in 2020 with a B.S. in Neuroscience.
 
